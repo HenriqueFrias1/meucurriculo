@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<TITLE>CURRICULO DE HENRIQUE FRIAS</TITLE>
+</HEAD>
+<BODY BGCOLOR=black>
+<body background=Q.JPG bgproperties=fixed>
+<FONT COLOR="WHITE">
+<H1 ALIGN=CENTER>*CURRICULUM VITAE*</H1>
+<BGSOUND SRC=jeta.MP3>
+<CENTER><IMG SRC=H.JPG WIDTH=15%></CENTER>
+<MARQUEE><H1>HENRIQUE DE FRIAS JESUS SANTOS </H1></MARQUEE>
+<HR>
+<H1><I>DADOS PESSOAIS:</I></H3>
+<UL>
+<LI>ENDEREÇO : ALAGOINHAS VELHA JARDIM TROPICAL RUA 12 CASA 26
+<LI>EMAIL : riquefrias1@gmail.com
+<LI>CELULAR : 75 99860-0327
+</UL>
+
+<H1><I>ESCOLARIDADE:</I></H3>
+<UL>
+<LI>Ensino medio - COMPLETO - Colégio Da Policia Militar -<a href=http://200.187.7.25/index.php?option=com_content&view=category&id=164&Itemid=732>Colégio da policia militar</a><br>
+<LI>Profissionalizante em administração -  COMPLETO- CIEE COMPLETO -<a href=http://portal.ciee.org.br/quero-uma-vaga/?utm_source=G_ads_p_max&utm_medium=search&utm_campaign=institucional&gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYZKb0NRG4pXYmdA7yXA1Y8HLgeDn-uRtpGiz_1IyakUA5F5xDnSX0hoC8-EQAvD_BwE>CIEE | Centro de Integração Empresa-Escola</a><br>
+<LI>Tecnico em Automação industtrial - SENAI - COMPLETO -<a href=https://www.tecnicosenai.com.br>SENAI</a><br>
+<LI>Sistemas de informação - F.SS.S. - EM CURSO -<a href=http://fsssacramento.br>Faculdade Santíssimo Sacramento</a><br>
+</UL>
+
+<H1><I>EXPERIÊNCIAS PROFISSIONAIS :</I></H3>
+<UL>
+<LI> 15/12/2020 - 22/11/2022: Empresa Paraguassu Chevrolet
+Área de atuação: Auxiliar Administrativo
+Atividade: Jovem Aprendiz 
+Duração: 2 anos<a href=http://www.paraguassuchevrolet.com.br>Concessionária Paraguassu</a><br>
+<Li> 16/02/2024 -emprego atual: StartFibra 
+Área de atuação: Auxiliar de escritorio em geral17:34 05/05/2024
+Atividade:Setor adiministrativo <a href=http://start.psi.br>StartFibra</a><br>
+</UL>
+
+<H1><I>CONHECIMENTOS :</I></H3>
+<UL>
+<LI> Informaticá
+Marketing digital,
+Inglês básico,
+Design de imagem e
+Edição de fotos
+
+</HTML>
+	
